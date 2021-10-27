@@ -1,23 +1,29 @@
-# Welcome!
-## I'm (SEU NOME)!
+## Oi, Eu sou Jeferson Alex! ✌️
+<div align="center">
+  <a href="https://github.com/jeferson62">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson62&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson62&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-:computer: I'm Front-End Developer!
+##
 
-:house_with_garden: I’m from Brazil.
+- 🏡 Brasileiro.
+- 🔍 Atualmente sou Analisata de suporte.
+- 🎓 Estudando: HTML e CSS.
+- ✨ Quero ser um futuro programador WEB.
+##
 
-:books: I’m currently learning everything.
+<img align="center" alt="jeferson62-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Jeferson62-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
- 
+##
 
-## About me
+<div>
+  <a href="https://www.linkedin.com/in/jeferson-alex-gomes-385142124/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+ <a href="Jefersonalex62@gmail.com">
+ <img  align="left" alt="Gmail" src="https://img.shields.io/badge/-jefersonalex62@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white" /> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+</div>
 
-
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
+##
