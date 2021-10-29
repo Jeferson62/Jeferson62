@@ -10,7 +10,7 @@
 - 🏡 Brasileiro.
 - 🔍 Atualmente sou Analisata de suporte.
 - 🎓 Estudando: HTML e CSS.
-- ✨ Quero ser um futuro programador WEB.
+- ✨ Quero ser um futuro desenvolvedor WEB.
 ##
 
 <img align="center" alt="jeferson62-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
